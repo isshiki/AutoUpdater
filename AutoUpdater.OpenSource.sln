@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdater.OpenSource", "..\AutoUpdater\AutoUpdater.OpenSource.csproj", "{7BDD2900-CCF0-4362-8A85-5E75E8ED1ABF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdater.OpenSource", ".\AutoUpdater\AutoUpdater.OpenSource.csproj", "{7BDD2900-CCF0-4362-8A85-5E75E8ED1ABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
